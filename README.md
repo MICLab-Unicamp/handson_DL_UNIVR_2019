@@ -22,9 +22,15 @@ https://docs.anaconda.com/anaconda/install/windows/
 
 ## 4 - Install Pytorch
 
-4.1 - Select your configuration on https://pytorch.org/  
-4.2 - Run the suggested command (e.g. conda install pytorch torchvision cudatoolkit=10.0 -c pytorch)
+4.1 - Install CUDA drivers if you have a NVIDIA GPU
+4.2 - Select your configuration on https://pytorch.org/  
+4.3 - Run the suggested command (e.g. conda install pytorch torchvision cudatoolkit=10.0 -c pytorch)
 
-## 5 -Activate the enviroment
+## 5 - Start coding
 
-5.1 - on terminal, run the command "activate Enviroment_name"
+5.1 - Activate you enviroment running the command  
+$ activate Enviroment_name  
+5.2 - run the command  
+$ jupyter notebook
+
+
