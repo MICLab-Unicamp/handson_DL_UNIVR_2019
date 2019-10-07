@@ -5,10 +5,13 @@ https://docs.anaconda.com/anaconda/install/windows/
 
 **Windows**
 
-1.1 - Download the Anaconda (Python 3.7 version)
+1.1 - Download the Anaconda Windows version (Python 3.7 version)
 1.2 - Install using the default options
 
 **Linux**
+
+1.1 - Download the Anaconda Linux version (Python 3.7 version)
+
 
 ## 2 - Create an Anaconda enviroment
 
