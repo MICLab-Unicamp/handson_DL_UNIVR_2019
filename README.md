@@ -24,3 +24,5 @@ https://docs.anaconda.com/anaconda/install/windows/
 
 4.1 - Select your configuration on https://pytorch.org/  
 4.2 - Run the suggested command (e.g. conda install pytorch torchvision cudatoolkit=10.0 -c pytorch)
+
+## 5 -Activate the enviroment
