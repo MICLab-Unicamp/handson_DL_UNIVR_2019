@@ -36,11 +36,12 @@ $ anaconda-navigator
 4.2 - Select your configuration on https://pytorch.org/  
 4.3 - Run the suggested command (e.g. conda install pytorch torchvision cudatoolkit=10.0 -c pytorch)
 
-## 5 - Start coding
+## 5 - Test the instalation and start coding
 
 5.1 - Activate you enviroment running the command  
 $ activate Enviroment_name  
 5.2 - run the command  
-$ jupyter notebook
+$ jupyter notebook  
+5.3 - run ./Codes/Instalation test.ipynb
 
 
