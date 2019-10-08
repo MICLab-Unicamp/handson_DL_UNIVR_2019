@@ -32,7 +32,7 @@ $ anaconda-navigator
 
 ## 4 - Install Pytorch
 
-4.1 - Install CUDA drivers if you have a NVIDIA GPU
+4.1 - Install CUDA drivers if you have a NVIDIA GPU  
 4.2 - Select your configuration on https://pytorch.org/  
 4.3 - Run the suggested command (e.g. conda install pytorch torchvision cudatoolkit=10.0 -c pytorch)
 
